@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pdfplumber
+python-dotenv
+langchain
+sentence-transformers
+langchain-community
+python-multipart
+rapidocr-onnxruntime
+streamlit
